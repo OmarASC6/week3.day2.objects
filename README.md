@@ -1,7 +1,7 @@
 # week3.day2.objects
 
 ## Instructions
-1. Fork and clone this repo: [week3.day2.objects](https://github.com/AllStarCodeOrg/week3.day2.objects)
+<!-- 1. Fork and clone this repo: [week3.day2.objects](https://github.com/AllStarCodeOrg/week3.day2.objects) -->
 2. Follow the instructions in each `.js` file (located in `lib/js`)
    - There are three parts that will come together to make this website
      1. `heroes.js` - Responsible for creating the raw data
